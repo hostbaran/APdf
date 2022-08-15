@@ -1,5 +1,6 @@
 <?php
 namespace Vatttan\Apdf\Pdf;
+use Imagick;
 //use \vendor\Pdf\includes;
 // TCPDF configuration
 //use includes\tcpdf_static;
